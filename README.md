@@ -11,8 +11,8 @@
 
 * Usage:
 ```
-**$>**  cc ip_subnet.c main.c -o subnet
+$>  cc ip_subnet.c main.c -o subnet
 
-**$>**  ./subnet <ip_addr> <Fixed/Variable> <list_of_sizes_of_the_subnets>...
+$>  ./subnet <ip_addr> <Fixed/Variable> <list_of_sizes_of_the_subnets>...
 
 ```
